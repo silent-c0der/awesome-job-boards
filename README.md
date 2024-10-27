@@ -725,3 +725,7 @@ Explore top job boards worldwide designed to connect employers with candidates a
 ### Asia
 
 - [VietnamDevs](https://vietnamdevs.com)
+
+### Kenya
+
+- [Hired jobs](https://www.hired.co.ke)
